@@ -1,18 +1,18 @@
 ---
 title: Launch plan
 created: 2026-10-09T11:44:49.769Z
-updated: 2026-10-09T11:48:37.044Z
+updated: 2026-10-09T11:52:03.118Z
 editedBy: praneeth132006
 generator: https://forkleaf.vercel.app
 ---
 
 # Launch plan
 
-Writes land on your device first, then drain to GitHub as one **atomic commit**.
+Writes land on your device first, then drain to GitHub as one **atomic commit**. Close the laptop mid-sentence; it catches up when you land.
 
 - Nothing is lost when the tab closes
 - Offline edits queue and replay
-- Conflicts are shown, never merged
+- Conflicts are shown side by side — you pick the version that survives
 
 ```mermaid
 flowchart TD
