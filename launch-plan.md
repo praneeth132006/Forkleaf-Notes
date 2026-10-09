@@ -1,12 +1,18 @@
 ---
 title: Launch plan
 created: 2026-10-09T11:44:49.769Z
-updated: 2026-10-09T11:50:10.350Z
+updated: 2026-10-09T11:48:37.044Z
 editedBy: praneeth132006
 generator: https://forkleaf.vercel.app
 ---
 
-# Conflicts are shown side by side — you pick the version that survives
+# Launch plan
+
+Writes land on your device first, then drain to GitHub as one **atomic commit**.
+
+- Nothing is lost when the tab closes
+- Offline edits queue and replay
+- Conflicts are shown, never merged
 
 ```mermaid
 flowchart TD
